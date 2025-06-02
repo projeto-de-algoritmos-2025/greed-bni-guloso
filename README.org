@@ -1,0 +1,39 @@
+#+TITLE: Greed - bni guloso
+#+AUTHOR: Bruno Ribeiro e Igor Penha
+
+*Número da Lista:* =3= \\
+*Conteúdo da Disciplina:* =Greed=
+
+** Alunos
+
+| Matrícula  | Aluno                |
+|------------+----------------------|
+| 21/1039288 | Bruno Campos Ribeiro |
+| 21/1029352 | Igor e Silva Penha   |
+|------------+----------------------|
+
+** Sobre
+
+O objetivo do trabalho é exercitar a teoria aprendida em sala na prática. Com
+isso, a partir do juiz Online [[https://leetcode.com][LeetCode]] foram
+selecionados quarto exercícios de nível hard na plataforma.
+
+** Exercícios Escolhidos
+
+| Exercício         | Aluno         |
+|-------------------+---------------|
+| [[https://leetcode.com/problems/candy/description/?envType=problem-list-v2&envId=greedy][Candy]]             | [[https://github.com/igorpenhaa][Igor Penha]]    |
+| [[https://leetcode.com/problems/reducing-dishes/description/?envType=problem-list-v2&envId=greedy][Reducing Dishes]]   | [[https://github.com/igorpenhaa][Igor Penha]]    |
+| [[https://leetcode.com/problems/wildcard-matching/description/?envType=problem-list-v2&envId=greedy][Wildcard Matching]] | [[https://github.com/BrunoRiibeiro][Bruno Ribeiro]] |
+|-------------------+---------------|
+
+#+CAPTION: Accepted for Wildcard Matching
+#+NAME: accepted-1293
+[[./img/accepted-44.png]]
+
+** Vídeo
+
+Para acessar à explicação dos exercício, basta acessar ao seguinte link
+disponível no YouTube:
+
+[[][LINK]]
