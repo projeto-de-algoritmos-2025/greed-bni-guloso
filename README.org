@@ -16,17 +16,18 @@
 
 O objetivo do trabalho é exercitar a teoria aprendida em sala na
 prática. Com isso, a partir do juiz Online [[https://leetcode.com][LeetCode]] foram selecionados
-três exercícios de nível hard e um médio na plataforma.
+três exercícios de nível hard e duas médio na plataforma.
 
 ** Exercícios Escolhidos
 
-| Exercício                            | Aluno         |
-|--------------------------------------+---------------|
-| [[https://leetcode.com/problems/candy/description/?envType=problem-list-v2&envId=greedy][Candy]]                                | [[https://github.com/igorpenhaa][Igor Penha]]    |
-| [[https://leetcode.com/problems/eliminate-maximum-number-of-monsters/description/?envType=problem-list-v2&envId=greedy][Eliminate maximum number of monsters]] | [[https://github.com/igorpenhaa][Igor Penha]]    |
-| [[https://leetcode.com/problems/reducing-dishes/description/?envType=problem-list-v2&envId=greedy][Reducing Dishes]]                      | [[https://github.com/igorpenhaa][Igor Penha]]    |
-| [[https://leetcode.com/problems/wildcard-matching/description/?envType=problem-list-v2&envId=greedy][Wildcard Matching]]                    | [[https://github.com/BrunoRiibeiro][Bruno Ribeiro]] |
-|--------------------------------------+---------------|
+| Exercício                                | Aluno         |
+|------------------------------------------+---------------|
+| [[https://leetcode.com/problems/candy/description/?envType=problem-list-v2&envId=greedy][Candy]]                                    | [[https://github.com/igorpenhaa][Igor Penha]]    |
+| [[https://leetcode.com/problems/eliminate-maximum-number-of-monsters/description/?envType=problem-list-v2&envId=greedy][Eliminate maximum number of monsters]]     | [[https://github.com/igorpenhaa][Igor Penha]]    |
+| [[https://leetcode.com/problems/reducing-dishes/description/?envType=problem-list-v2&envId=greedy][Reducing Dishes]]                          | [[https://github.com/igorpenhaa][Igor Penha]]    |
+| [[https://leetcode.com/problems/minimum-array-length-after-pair-removals/description/?envType=problem-list-v2&envId=greedy][Minimum Array Length After Pair Removals]] | [[https://github.com/BrunoRiibeiro][Bruno Ribeiro]] |
+| [[https://leetcode.com/problems/wildcard-matching/description/?envType=problem-list-v2&envId=greedy][Wildcard Matching]]                        | [[https://github.com/BrunoRiibeiro][Bruno Ribeiro]] |
+|------------------------------------------+---------------|
 
 #+CAPTION: Accepted for Candy
 #+NAME: accepted-candy
@@ -40,8 +41,12 @@ três exercícios de nível hard e um médio na plataforma.
 #+NAME: accepted-dishes
 [[./img/reducing-dishes.png]]
 
-#+CAPTION: Accepted for Wildcard Matching
+#+CAPTION: Accepted for Minimum Array Length After Pair Removals
 #+NAME: accepted-1293
+[[./img/accepted-2856.png]]
+
+#+CAPTION: Accepted for Wildcard Matching
+#+NAME: accepted-44
 [[./img/accepted-44.png]]
 
 ** Vídeo
