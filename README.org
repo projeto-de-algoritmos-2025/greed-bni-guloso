@@ -34,7 +34,7 @@ selecionados quarto exercícios de nível hard e um médio na plataforma.
 
 #+CAPTION: Accepted for Eliminate maximum number of monsters
 #+NAME: accepted-mosters
-[[./img/mosters.png]]
+[[./img/monsters.png]]
 
 #+CAPTION: Accepted for Reducing Dishes
 #+NAME: accepted-dishes
