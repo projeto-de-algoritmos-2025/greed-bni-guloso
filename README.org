@@ -54,4 +54,4 @@ três exercícios de nível hard e duas médio na plataforma.
 Para acessar à explicação dos exercício, basta acessar ao seguinte link
 disponível no YouTube:
 
-[[][LINK]]
+[[https://youtu.be/KuvRWlrGHoE][LINK]]
